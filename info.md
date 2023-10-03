@@ -1,5 +1,5 @@
 ### Temática
-Por concretar con los profesores.
+Tienda de paquetes (elementos) con productos (subelementos).
 
 ### Contenido
 - Elementos: paquetes de productos relacionados o para una temática concreta. Tienen título, descripción y una URL a una imagen.
@@ -37,3 +37,4 @@ Por concretar con los profesores.
 - Todo el proyecto se compactará en un .zip además de un readme con los nombres de los integrantes, enlace al GitHub y nombre de la página web.
 - Antes del 14 de noviembre a las 23:55 y se defenderá entre el 15 y 21 de Noviembre.
 - No se admiten modificaciones tras la entrega
+
