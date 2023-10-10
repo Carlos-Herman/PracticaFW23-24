@@ -1,0 +1,31 @@
+/* Este archivo está para poner los estilos css propios
+que desarrollemos, para tener una mayor
+modularidad en el código
+*/
+
+
+
+.brandImage {
+
+}
+
+.crossedPrice{
+  text-decoration: line-through;
+}
+
+.elementDescription {
+  
+}
+
+.elementTitle {
+
+}
+
+.subelement {
+font-size: 12px;
+text-align: left;
+}
+
+.subelementPrice {
+  vertical-align: text-top;
+}
